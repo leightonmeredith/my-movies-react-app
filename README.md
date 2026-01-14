@@ -23,5 +23,9 @@ npm create vite@latest to create framework
 npm i
 npm run dev 
 
-# repo
+# notable links
 [React-movies](https://github.com/adrianhajdin/react-movies)
+[Tailwind](https://tailwindcss.com/showcase)
+[TMDB](https://www.themoviedb.org/u/luluket2000)
+[appwrite](https://cloud.appwrite.io/console/organization-694463540036be9ac768)
+[Figma](https://www.figma.com/design/kdu6x1bqzyCMbzezudt6s2/Movie-App-w--React?node-id=89001-1372&t=k7uhoR1A6QscoZt5-0)
