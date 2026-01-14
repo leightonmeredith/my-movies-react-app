@@ -96,7 +96,7 @@ const App = () => {
         <img src='/hero.png' alt='hero img'></img>
         <h1>Find <span className='text-gradient'>Movies</span> You'll Enjoy Without the Hassle</h1>
 
-        <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm}></Search>
+        <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm}/>
       </header>
 
       {trendingMovies.length > 0 && (
